@@ -9,6 +9,6 @@
   "author": "OI",
   "license": "ISC",
   "dependencies": {
-    "public-ip": "^2.4.0"
+    "public-ip": "^4.0.0"
   }
 }
